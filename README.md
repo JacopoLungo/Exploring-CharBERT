@@ -6,8 +6,12 @@
  
 # CharBERT for IR, NER and sentiment analysis
 
-This repository contains our code, datasets and finetuned models developed by our team Poli2Vec for the project of the DNLP course at PoliTo.</br>
-Authors: Mingrino Davide, [Pietropaolo Emanuele](https://github.com/edoppiap), [Martini Martina](https://github.com/martina-martini), [Lungo Vaschetti Jacopo](https://github.com/JacopoLungo)
+This repository contains our code, datasets and finetuned models developed by our team, Poli2Vec, for the project of the DNLP course at PoliTo.</br>
+
+
+Report: [CharBERT for IR, NER and sentiment analysis](https://drive.google.com/file/d/1kE3VKTq8u-gmtG3GqGFGkb0z92Ixigjg/view?usp=sharing).</br>
+Authors: Mingrino Davide, [Pietropaolo Emanuele](https://github.com/edoppiap), [Martini Martina](https://github.com/martina-martini), [Lungo Vaschetti Jacopo](https://github.com/JacopoLungo).</br>
+Credits to [official CharBERT repo](https://github.com/mawentao277/CharBERT)
 
 ## Base Models + Finetuned
 We primarily provide two models. Here are the download links:
